@@ -27,9 +27,9 @@ Optional: I have not used the telegram libraries for Python. In case you want to
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Reason why I created this:
-I was trying to open a website, which was not under maintenance, so it was not running. 
+I was trying to open a website, which was not working, as it was under maintenance.
 So instead of checking my browser every time to see when the website comes up, I created this
-simple program to notify me on telegram once the website comes back.
+simple program to notify me on telegram once the website comes back. If the website runs successfully, it will return a http 200 status.
 Of course the agenda of the program was mostly fun and for educational purposes only.
 (P.s. The site was not opening for a couple of days, and I kept it running on my Raspberry Pi, and got notification as expected when site came back online)
 

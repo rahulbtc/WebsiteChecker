@@ -4,7 +4,7 @@ A sample program to get telegram alerts when a website starts working again. (Ht
 Requirements:
 1) Python 3.4+
 2) Libraries: 
-     a) urllib     (https://docs.python.org/3/library/urllib.html#module-urllib)
+     a) urllib     (https://docs.python.org/3/library/urllib.html#module-urllib)  
      b) requests   (https://requests.readthedocs.io/en/master/)
      c) contextlib (https://docs.python.org/3/library/contextlib.html)
                   
